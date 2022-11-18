@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-FoodWebsite/static/css/main.f675a320.css",
+    "main.js": "/React-FoodWebsite/static/js/main.dc89ef49.js",
+    "static/media/cBiriyani.jpg": "/React-FoodWebsite/static/media/cBiriyani.7dda9e0c2dc297a32ab3.jpg",
+    "static/media/hydbiriyani.jpg": "/React-FoodWebsite/static/media/hydbiriyani.e1a4897c3d63e2e856b5.jpg",
+    "static/media/aBiriyani.jpg": "/React-FoodWebsite/static/media/aBiriyani.965cc530e0561ffee952.jpg",
+    "static/media/muttonbiriyani.jpg": "/React-FoodWebsite/static/media/muttonbiriyani.76c299625d9baa3363e4.jpg",
+    "static/media/splbiriyani.webp": "/React-FoodWebsite/static/media/splbiriyani.fca539fc78a182c50b6f.webp",
+    "static/media/hBiriyani.jpg": "/React-FoodWebsite/static/media/hBiriyani.f08bb0197d6081ecfbaf.jpg",
+    "static/media/fishbiriyani.jpg": "/React-FoodWebsite/static/media/fishbiriyani.3bf55c3784854c7962c9.jpg",
+    "static/media/splmuttonbiriyani.webp": "/React-FoodWebsite/static/media/splmuttonbiriyani.ae276b49bb9e54ebbb72.webp",
+    "static/media/biriyaniLogo.png": "/React-FoodWebsite/static/media/biriyaniLogo.500d49db72ce6c746369.png",
+    "static/media/chickenbiriyani.jpg": "/React-FoodWebsite/static/media/chickenbiriyani.070151b9f0dcbd4e5163.jpg",
+    "index.html": "/React-FoodWebsite/index.html",
+    "main.f675a320.css.map": "/React-FoodWebsite/static/css/main.f675a320.css.map",
+    "main.dc89ef49.js.map": "/React-FoodWebsite/static/js/main.dc89ef49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f675a320.css",
+    "static/js/main.dc89ef49.js"
+  ]
+}
